@@ -5,4 +5,5 @@ Driver code is located in binary_multiplication.py
 
 Sample Output:
 
-![sampleoutput](https://user-images.githubusercontent.com/55969233/218299530-497eabbd-d2c3-4aa0-845c-4ed842b39bac.JPG)
+
+<img width="497" alt="Screen Shot 2023-02-19 at 2 42 19 AM" src="https://user-images.githubusercontent.com/55969233/219937889-49d39444-3830-4de3-bbf5-f128bcdf6f71.png">
